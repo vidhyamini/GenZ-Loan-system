@@ -30,13 +30,14 @@ The ownership of **digital mortgage is publically verifiable** on a trusted gove
 2. **Interested lenders will judge the mortgage** and propose their desired lending amount and their rate of interest. 
 Borrower scrutinises the proposals and **Accepts** appropriate ones to achieve the target money. Other loans are **Reverted**. The funds are tranferred to the borrower.
 
-![alt text](https://lh4.googleusercontent.com/oonjo_IALmIaF4nlc5O1Xyw0gAE8-EhjmQC8yM8v2CsdujjyPCzBr6cn6QwG8wc15kdKtdxGAzdBIQptuKVxbPUqcUNRq6tMmCkZPqd2NvK2yvZ_tUNotFe7lgEvFtMkzRm5Uppm "")
-
 3. **Payment Scenario 1:** The borrower will repay amount anytime he wishes before due date, the interest will be incurred on this time period only.
 4. **Payment Scenario 2:**  The due date passes, Any of the lender can now ask for mortgage transfer. The mortgage will be transferred to all the lenders stakewise.
 
-![alt text](https://lh4.googleusercontent.com/vUDc-Sa8psKmRGXyoGeq1F22_f20VpIOlBSqJ6upDfQKpJZhEl2C9sCrLJ3yvhtQN2URLva3yAgh4xNLPTe2MceL5jyPlWPqBDtQdlTK8ePJGRoZPN79dlXxu5n2By6Mk5a1uDrk "Logo Title Text 1")
-
+Setup
+----------------------------
+1. Download Ganache
+2. Setup Metamask and connect to Ganache
+3. Run 'npm run dev'
 
 
 
