@@ -2,15 +2,6 @@ CrowdBank
 =========================
 ⚙️ Peer to Peer Loan System implemented on Ethereum Smart Contracts
 
-_Entry for [Proffer's GENERATION BLOCKCHAIN Hackathon](https://proffer.network/hackathon) at IIT Delhi_
-
-  * [Problem Statement](#problem-statement)
-  * [Solution Abstract](#solution-abstract)
-  * [Demo Video](https://www.youtube.com/watch?v=2gzZemUs150)
-  * [System Architecture](#system-architecture)
-  * [Setup](#setup)
-  * [License](#license)
-
 Problem Statement
 ==================
 
@@ -46,21 +37,7 @@ Borrower scrutinises the proposals and **Accepts** appropriate ones to achieve t
 
 ![alt text](https://lh4.googleusercontent.com/vUDc-Sa8psKmRGXyoGeq1F22_f20VpIOlBSqJ6upDfQKpJZhEl2C9sCrLJ3yvhtQN2URLva3yAgh4xNLPTe2MceL5jyPlWPqBDtQdlTK8ePJGRoZPN79dlXxu5n2By6Mk5a1uDrk "Logo Title Text 1")
 
-Setup
-========
-1. Install [testrpc]() and [Truffle Framework]().
-2. Run ```git clone https://github.com/anshulshah96/LoanDe-centralised```
-3. Run ```npm install``` inside the directory.
-4. Run _testrpc_ in a new terminal.
-5. Run ```truffle deploy``` to build and deploy contract.
-6. Run ```npm run dev``` and go to [locahost:8080](http://localhost:8080).
 
-License
-===========
 
-[MIT License](https://anshul.mit-license.org/)
 
-The following people have been the contributors for the project. (Go star their repos :p)
- * [Anshul Shah](https://github.com/anshulshah96) 
- * [Nikhil Sheoran](https://github.com/nikhil96sher)
- * [Suraj Gupta](https://github.com/surajgupta97)
+
